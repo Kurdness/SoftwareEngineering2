@@ -14,6 +14,8 @@ namespace SoftwareEngineering2
             //I will be creating a demo project and then save it to local repository
             //after that im going to sync it to GitHub
 
+            //This line is adding changes to the second branch "ThisIsBranch2" 
+            //I will now go to GitHub and see if it works there.
         }
     }
 }
