@@ -16,6 +16,8 @@ namespace SoftwareEngineering2
 
             //This line is adding changes to the second branch "ThisIsBranch2" 
             //I will now go to GitHub and see if it works there.
+
+            // New changes with this line now, to see if it will show changes after I merged my "ThisIsBranch2" with "master" branch !
         }
     }
 }
